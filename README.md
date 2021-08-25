@@ -9,6 +9,7 @@ sudo apt install -y \
 
 ```
 wget https://remotebox.knobgoblin.org.uk/downloads/RemoteBox-2.7.tar.bz2
+tar -xf RemoteBox-2.7.tar.bz2
 ```
 Source: https://remotebox.knobgoblin.org.uk/?page=downloads
   
