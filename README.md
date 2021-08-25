@@ -10,7 +10,7 @@ sudo apt install -y \
 download remotebox:
 ```
 wget https://remotebox.knobgoblin.org.uk/downloads/RemoteBox-2.7.tar.bz2
-tar -xf RemoteBox-2.7.tar.bz2
+tar xf RemoteBox-2.7.tar.bz2
 cd RemoteBox-2.7
 ```
 
